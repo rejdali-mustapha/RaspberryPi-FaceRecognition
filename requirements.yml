@@ -1,0 +1,13 @@
+---
+# 🛠 Requirements
+
+- Python 3.x
+- TensorFlow
+- NumPy
+- Pillow
+- Tkinter (usually included with Python)
+
+Install requirements using:
+
+```bash
+pip install -r requirements.txt

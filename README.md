@@ -68,3 +68,6 @@ Here are some screenshots of the GUI in action:
 ┃ ┗ class_names.txt
 ┣ 📄 app.py
 ┗ 📄 README.md
+
+## 📝 Conclusion
+This project successfully combines deep learning and hardware to create a real-time facial recognition system with a simple user interface. It is a solid foundation for applications in security and identification, with room for future improvements.

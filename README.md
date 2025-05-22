@@ -23,7 +23,7 @@ The facial recognition system can be integrated with a physical prototype using 
 
 ### 📸 Hardware View
 
-![Hardware Setup](./Demo/hardware.png)
+![Hardware Setup](./Demo/hardware.jpg)
 
 ---
 

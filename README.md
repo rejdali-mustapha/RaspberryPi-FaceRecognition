@@ -36,7 +36,7 @@ A video demonstration of the working system is included to show:
 
 ### ▶️ Watch the Demo
 
-![Demo Video](./Demo/demo.png)
+![Demo Video](./Demo/demo.mp4)
 
 > **Note**: To watch the full demo, open the file `Demo/demo.mp4` using a media player like VLC.
 
